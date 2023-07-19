@@ -1,6 +1,7 @@
 {
   "index": "Index",
   "Introduction": "▶️ Introduction",
+  "GeneralConventions": "General Conventions",
   "about": {
     "title": "About",
     "type": "page"
