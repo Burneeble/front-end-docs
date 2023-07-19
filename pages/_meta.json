@@ -1,9 +1,5 @@
 {
-  "index": "Index",
-  "Introduction": "▶️ Introduction",
-  "GeneralConventions": "General Conventions",
-  "Note": "NOTE",
-
+  "FrontendCodeConventions": "Frontend Code Convention",
   "about": {
     "title": "About",
     "type": "page"
