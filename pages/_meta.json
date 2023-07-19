@@ -1,6 +1,8 @@
 {
   "index": "Index",
-  "Introduction": "▶️ Introduction",
+  "Introduction": "Introduction",
+  "Note": "NOTE",
+
   "about": {
     "title": "About",
     "type": "page"
