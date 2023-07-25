@@ -1,4 +1,5 @@
 {
-    "stylesFolder": "Styles folder",
-    "scriptsFolder": "Scripts folder"
+    "StylesFolder": "Styles folder",
+    "ScriptsFolder": "Scripts folder",
+    "ComponentsPagesFolder": "Components/Pages Folder"
 }
